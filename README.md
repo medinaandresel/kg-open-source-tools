@@ -22,7 +22,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>[Eddy](https://github.com/obdasystems/eddy)</td>
+      <td><a href="https://github.com/obdasystems/eddy">Eddy</a></td>
       <td>Ontology creation and management.</td>
       <td>DASI-lab group, University of Rome</td>
       <td>GPLV3</td>
