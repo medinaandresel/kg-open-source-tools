@@ -115,7 +115,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>[Eddy](https://github.com/obdasystems/eddy)</td>
+      <td><a href="https://github.com/obdasystems/eddy">Eddy</a></td>
       <td>desktop (windows, linux, macOS)</td>
       <td>plugins</td>
       <td>-</td>
@@ -127,7 +127,7 @@
       <td>detailed</td>
     </tr>
     <tr>
-      <td>[Neologism](https://github.com/Semantic-Society/Neologism)</td>
+      <td><a href="https://github.com/Semantic-Society/Neologism">Neologism</a></td>
       <td>web</td>
       <td>-</td>
       <td>MongoDB</td>
@@ -139,7 +139,7 @@
       <td>short</td>
     </tr>
     <tr>
-      <td>[Protégé](https://github.com/protegeproject/protege)</td>
+      <td><a href="https://github.com/protegeproject/protege">Protégé</a></td>
       <td>desktop (windows, linux, macOS)</td>
       <td>large number of plugins available</td>
       <td>MySQL</td>
@@ -151,7 +151,7 @@
       <td>detailed</td>
    </tr>
     <tr>
-      <td>[WebProtégé](https://github.com/protegeproject/webprotege)</td>
+      <td><a href="https://github.com/protegeproject/webprotege">WebProtégé</a></td>
       <td>web</td>
       <td>-</td>
       <td>MongoDB</td>
@@ -163,7 +163,7 @@
       <td>detailed</td>
    </tr>
     <tr>
-      <td>[VocBench](https://vocbench.uniroma2.it/)</td>
+      <td><a href="https://vocbench.uniroma2.it">VocBench</a></td>
       <td>web</td>
       <td>-</td>
       <td>triple store</td>
@@ -175,7 +175,7 @@
       <td>detailed</td>
     </tr>
     <tr>
-      <td>[Vitro](https://github.com/vivo-project/Vitro)</td>
+      <td><a href="https://github.com/vivo-project/Vitro">Vitro</a></td>
       <td>web</td>
       <td>-</td>
       <td>MySQL</td>
@@ -187,7 +187,7 @@
       <td>minimal</td>
     </tr>
     <tr>
-      <td>[ontor](https://github.com/felixocker/ontor)</td>
+      <td><a href="https://github.com/felixocker/ontor">ontor</a></td>
       <td>desktop (python-based)</td>
       <td>-</td>
       <td>-</td>
