@@ -31,7 +31,7 @@
       <td>Graphol, HermiT</td>
     </tr>
     <tr>
-      <td>[Neologism](https://github.com/Semantic-Society/Neologism)</td>
+      <td><a href="https://github.com/Semantic-Society/Neologism">Neologism</a></td>
       <td>Neologism~2.0 is a tool  for quick vocabulary creation.</td>
       <td>Semantic Society (6 persons)</td>
       <td>MIT</td>
@@ -40,7 +40,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>[Protégé](https://github.com/protegeproject/protege)</td>
+      <td><a href="https://github.com/protegeproject/protege">Protégé</a></td>
       <td>Protégé can be customized for building both simple and complex ontology-based applications. Developers can integrate the output of Protégé with rule systems or other problem solvers to create a wide range of intelligent systems.</td>
       <td>Standford Team & Protege Community</td>
       <td>Stanford/ BSD 2-clause</td>
@@ -49,7 +49,7 @@
       <td>HermiT, Pellet, Ontop, FaCT++, ELK</td>
     </tr>
     <tr>
-      <td>[WebProtégé](https://github.com/protegeproject/webprotege)</td>
+      <td><a href="https://github.com/protegeproject/webprotege">WebProtégé</a></td>
       <td>It is a free and open-source environment for collaborative ontology development. It operates as a web application. End users access it through their web browsers. They do not need to download or install any software.</td>
       <td>Standford Team & Protege Community</td>
       <td>Stanford/ BSD 2-clause</td>
@@ -58,7 +58,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>[VocBench](https://vocbench.uniroma2.it/)</td>
+      <td><a href="https://vocbench.uniroma2.it">VocBench</a></td>
       <td>It is a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets.</td>
       <td>ART Group,  University of Tor Vergata</td>
       <td>UniRome/ BSD 3-clause</td>
@@ -67,7 +67,7 @@
       <td>features a set of Integrity Constraint Validation (ICV) checks</td>
     </tr>
     <tr>
-      <td>[Vitro](https://github.com/vivo-project/Vitro)</td>
+      <td><a href="https://github.com/vivo-project/Vitro">Vitro</a></td>
       <td>It is a general-purpose web-based ontology and instance editor with customizable public browsing. Vitro is primarily used as a key software component in the open-source VIVO project. VIVO is member-supported, open source software and an ontology for representing scholarship.</td>
       <td>VIVO Community</td>
       <td>Cornell/ BSD 3-clause</td>
@@ -76,7 +76,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>[ontor](https://github.com/felixocker/ontor)</td>
+      <td><a href="https://github.com/felixocker/ontor">ontor</a></td>
       <td>Ontology editor built on Owlready2, which supports the following features: creating new, loading and modifying existing, saving, reasoning and visualizing ontologies.</td>
       <td>3 contributors</td>
       <td>GPLV3</td>
@@ -86,7 +86,6 @@
     </tr>
   </tbody>
 </table>
-
 
 
 
