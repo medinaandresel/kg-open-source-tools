@@ -197,7 +197,5 @@
       <td>03/2023</td>
       <td>short</td>
     </tr>
-	& \textemdash	& \textemdash	&	\textemdash & 
-
   </tbody>
 </table>
