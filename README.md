@@ -313,7 +313,7 @@
     </tr>
     <tr>
       <td>Nemo <a href="#footnote_Vlog">[8]</td>
-      <td>"focus on reliability and performance. Nemo is built for data-centric analytic computations, modelled in a fully declarative Datalog dialect. Its scalability for these tasks matches or exceeds that of leading Datalog systems. We demonstrate uses in reasoning with knowledge graphs and ontologies with 10^5 - 10^8 input facts, all on a laptop"</td>
+      <td>"focus on reliability and performance. Nemo is built for data-centric analytic computations, modelled in a fully declarative Datalog dialect. Its scalability for these tasks matches or exceeds that of leading Datalog systems. We demonstrate uses in reasoning with knowledge graphs and ontologies with 10<sup>5</sup> - 10<sup>8</sup> input facts, all on a laptop"</td>
       <td>Datalog+/-</td>
       <td>Rust</td>
       <td style="text-align: center;">&#x2713;</td>
@@ -334,7 +334,7 @@
         <td colspan="9" id="footnote_CEL"> [3] Mendez, J., Suntisrivaraporn, B.: Reintroducing CEL as an OWL 2 EL reasoner. In: Description Logics. CEUR Workshop Proceedings, vol. 477. CEUR-WS.org (2009).</td>
       </tr>
       <tr>
-        <td colspan="9" id="footnote_Konclude"> [4] teigmiller, A., Liebig, T., Glimm, B.: Konclude: System description. J. Web Semant. 27-28, 78–85 (2014).</td>
+        <td colspan="9" id="footnote_Konclude"> [4] Steigmiller, A., Liebig, T., Glimm, B.: Konclude: System description. J. Web Semant. 27-28, 78–85 (2014).</td>
       </tr>
       <tr>
         <td colspan="9" id="footnote_NORA"> [5] Benítez-Hidalgo, A., Navas-Delgado, I., del Mar Roldán García, M.: NORA: scalable OWL reasoner based on nosql databases and apache spark. Softw. Pract. Exp. 53(12), 2377–2392 (2023).</td>
