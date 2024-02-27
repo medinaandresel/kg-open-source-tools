@@ -200,3 +200,142 @@
     </tr>
   </tbody>
 </table>
+
+
+
+
+## Overview of usable and/or maintained reasoners
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Reasoner</th>
+      <th>Description</th>
+      <th>Language</th>
+      <th>Implementation</th>
+      <th>Scalability</th>
+      <th>In-memory</th>
+      <th>Maintained</th>
+      <th>Usable</th>
+      <th>Licence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ERGS <a href="#footnote_ERGS">[1]</td>
+      <td>"OWL reasoner and an RDF triple store built on top of a Property Graph architecture. ERGS uses Janus Graph as the underlying graph store which can be replaced by any Apache TinkerPop compliant graph store"</td>
+      <td>RDFS, limited OWL & Java</td>
+      <td>Java</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2717;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td>Apache 2.0</td>
+    </tr>
+    <tr>
+     <td>Arachne <a href="#footnote_Arachne">[2]</td>
+      <td>"an RDF rule engine with support for efficient reasoning with large OWL RL terminologies[...]Its architecture is well suited to applications of large ontologies to instance-based datasets, supporting new approaches to utilizing the rich semantics represented within the Gene Ontology and related scientific ontologies"</td>
+      <td>OWL RL</td>
+      <td>Scala</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td>BSD</td>
+    </tr>
+    <tr>
+      <td>CEL <a href="#footnote_CEL">[3]</td>
+      <td>"a lightweight Description Logic reasoner for large-scale biomedical ontologies. The CEL Plug-ing uses the OWL API and lets CEL be used as a plug-in for Protege "</td>
+      <td>OWL 2 EL</td>
+      <td>LIPS, Java</td>
+      <td style="text-align: center;">&#x2717;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td>Apache 2.0</td>
+    </tr>
+    <tr>
+      <td>Konclude <a href="#footnote_Konclude">[4]</td>
+      <td>"A parallel, tableau-based, high-performance reasoner for the Description Logic SROIQV(D)/the Web Ontology Language (OWL) 2 DL"</td>
+      <td>OWL 2 DL</td>
+      <td>C++</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td>LGPLv3</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Galigator/openllet">Openllet</a></td>
+      <td>"An Open Source OWL DL reasoner for Java. Openllet provides functionality to check consistency of ontologies, compute the classification hierarchy, explain inferences, and answer SPARQL queries."</td>
+      <td>OWL 2</td>
+      <td>Java</td>
+      <td style="text-align: center;">&#x2717;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td style="text-align: center;">&#x2713;</td>
+      <td>AGPL or commercial license</td>
+    </tr>
+    <tr>
+      <td>NORA <a href="#footnote_NORA">[5]</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+     \cite{DBLP:journals/spe/BenitezHidalgoNG23} & "Pellet, a well-known OWL 2 DL reasoner, is used to classify on the TBox. By combining these tools, we obtain several taxonomies, such as the class/subclass and property/subproperty hierarchies, but no newly derived knowledge is inferred from the ABox. Subsequently, a database schema is created to materialise all this information.17 As a result, the reasoned TBox is stored in Cassandra together with the explicit instances" & OWL 2 & Java & \cmark & \xmark & \cmark & \cmark & MIT \\ \hline \\
+
+
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+   <tfoot>
+      <tr>
+        <td colspan="9" id="footnote_ERGS"> [1] Neelam, S., Sharma, U., Bhatia, S., Karanam, H., Likhyani, A., Abdelaziz, I., Fokoue, A., Subramaniam, L.V.: Expressive reasoning graph store: A unified framework for managing RDF and property graph databases. CoRR abs/2209.05828 (2022).</td>
+      </tr>
+      <tr>
+        <td colspan="9" id="footnote_Arachne"> [2] Neelam, S., Sharma, U., Bhatia, S., Karanam, H., Likhyani, A., Abdelaziz, I., Fokoue, A., Subramaniam, L.V.: Expressive reasoning graph store: A unified framework for managing RDF and property graph databases. CoRR abs/2209.05828 (2022).</td>
+      </tr>
+
+    </tfoot>
+</table>
+
+
