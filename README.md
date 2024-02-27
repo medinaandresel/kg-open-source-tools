@@ -346,7 +346,7 @@
         <td colspan="9" id="footnote_Vlog"> [7] Carral, D., Dragoste, I., González, L., Jacobs, C.J.H., Krötzsch, M., Urbani, J.: Vlog: A rule engine for knowledge graphs. In: ISWC (2). Lecture Notes in Computer Science, vol. 11779, pp. 19–35. Springer (2019).</td>
       </tr>
       <tr>
-        <td colspan="9" id="footnote_Nemo"> [2] Ivliev, A., Ellmauthaler, S., Gerlach, L., Marx, M., Meißner, M., Meusel, S., Krötzsch, M.: Nemo: First glimpse of a new rule engine. In: ICLP. EPTCS, vol. 385, pp. 333–335 (2023).</td>
+        <td colspan="9" id="footnote_Nemo"> [8] Ivliev, A., Ellmauthaler, S., Gerlach, L., Marx, M., Meißner, M., Meusel, S., Krötzsch, M.: Nemo: First glimpse of a new rule engine. In: ICLP. EPTCS, vol. 385, pp. 333–335 (2023).</td>
       </tr>
     </tfoot>
 </table>
